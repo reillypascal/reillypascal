@@ -1,6 +1,6 @@
-- Hi, I’m @reillypascal
-- I’m interested in musical instrument interfaces, data sonification, and digital signal processing
-- I’m currently learning JavaScript
+- I’m Reilly
+- I like musical instrument interfaces, data sonification, and web design
+- I’m learning JavaScript and HTML
 - How to reach me: reillypascal@gmail.com
 
 <!---
