@@ -1,4 +1,3 @@
-Composer, electronic musician, and educator // PhD from Eastman // I like noise, code, electronics, and nostalgia
 - I compose with Max/MSP and SuperCollider
 - I’m learning JavaScript/HTML/CSS
 - Reach me at reillypascal@gmail.com
