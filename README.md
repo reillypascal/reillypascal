@@ -1,5 +1,5 @@
 - I compose with Max/MSP and SuperCollider
-- I’m learning JavaScript/HTML/CSS
+- Frontend developer, currently learning React
 - Reach me at reillypascal@gmail.com
 
 <!---
