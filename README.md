@@ -1,6 +1,6 @@
 - I compose with Max/MSP and SuperCollider
-- I do frontend development
 - I'm currently learning C++/JUCE
+- I do frontend development
 - Reach me at reillypascal@gmail.com
 
 <!---
