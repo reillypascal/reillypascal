@@ -1,4 +1,4 @@
-- I compose with Max/MSP and SuperCollider
+- I compose with Max/MSP
 - I'm currently learning C++/JUCE
 - I do frontend development
 - Reach me at reillypascal@gmail.com
