@@ -1,5 +1,5 @@
 - I compose with Max/MSP
-- I'm currently learning C++/JUCE
+- I develop audio plugins with C++/JUCE
 - I do frontend development
 - Reach me at reillypascal@gmail.com
 
