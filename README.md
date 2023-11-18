@@ -1,7 +1,7 @@
 ### About
 - I compose with Max/MSP
 - I develop audio plugins with C++ & JUCE
-- I do frontend development
+- I do web development
 - Reach me at reillypascal@gmail.com
 
 ### Skills 
