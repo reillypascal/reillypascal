@@ -2,7 +2,7 @@
 - I compose with Max/MSP
 - I develop audio plugins with C++ & JUCE
 - I do web development
-- Reach me at reillypascal@gmail.com or https://reillyspitzfaden.com/
+- Reach me at https://reillyspitzfaden.com/, https://hachyderm.io/@reillypascal, or reillypascal@gmail.com
 <!--
 ### Skills 
 <p align="left">
