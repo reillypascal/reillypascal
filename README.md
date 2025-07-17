@@ -1,8 +1,7 @@
 ## About
 - I compose glitchy, experimental electronic music with Max/MSP
-- I develop audio plugins with C++ & JUCE
+- I develop audio tools & plugins with C++/JUCE and Rust
 - I do web development, with a specific interest in [IndieWeb](https://indieweb.org/) principles, and my site is made with [Eleventy](https://www.11ty.dev/)
-- I also enjoy making audio tools using Rust and Python
 - Reach me at my [website](https://reillyspitzfaden.com/) or [Mastodon](https://hachyderm.io/@reillypascal), or at reillypascal@gmail.com
 <!--
 ## Skills 
